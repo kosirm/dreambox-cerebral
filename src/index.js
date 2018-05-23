@@ -16,6 +16,7 @@ const App = () => (
     <h3>+ snack, da vidim kako ide tamo cerebral</h3>
     <h3>... a onda dolazi na red pagedraw</h3>
     <h3>... ok, fetching ne radi kako treba...</h3>
+    <h3>... dodao sam readme</h3>
   </div>
 );
 
