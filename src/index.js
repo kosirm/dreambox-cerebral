@@ -10,11 +10,9 @@ const styles = {
 const App = () => (
   <div style={styles}>
     <Hello name="Dreambox" />
-    <h2>My sandbox, fora... {"\u2728"}</h2>
-    <h2>Zakaj ne bi delal v tem? V čem je c9 boljši? {"\u2728"}</h2>
-    <h2>Ovi toolsi so zakon!!!... {"\u2728"}</h2>
-    <h3>Jel to povezano sada sa githubom?</h3>
-    <h3>Izgleda da je...</h3>
+    <h2>
+      Sandbox za cerebral aplikaciju, da vidim kako če to iči... {"\u2728"}
+    </h2>
   </div>
 );
 
