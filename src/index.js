@@ -13,7 +13,8 @@ const App = () => (
     <h2>My sandbox, fora... {"\u2728"}</h2>
     <h2>Zakaj ne bi delal v tem? V čem je c9 boljši? {"\u2728"}</h2>
     <h2>Ovi toolsi so zakon!!!... {"\u2728"}</h2>
-    <h2>Jel to povezano sada sa githubom?</h2>
+    <h3>Jel to povezano sada sa githubom?</h3>
+    <h3>Izgleda da je...</h3>
   </div>
 );
 
