@@ -13,6 +13,7 @@ const App = () => (
     <h2>
       Sandbox za cerebral aplikaciju, da vidim kako če to iči... {"\u2728"}
     </h2>
+    <h3>+ snack, da vidim kako ide tamo cerebral</h3>
   </div>
 );
 
